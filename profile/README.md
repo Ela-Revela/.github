@@ -1,57 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.jpg" alt="Ela Revela" width="100%">
+</p>
 
-<img src="./banner.png" alt="Ela Revela" width="100%">
+<h2>Ela Revela</h2>
 
-<br><br>
+<p><strong>Uma nova forma de descobrir a beleza.</strong></p>
 
-# ✦ Ela Revela
+<p>
+A Ela Revela é uma plataforma de beleza que conecta mulheres a produtos, experiências e descobertas personalizadas. Criamos uma experiência digital pensada para tornar a jornada pela beleza mais simples, envolvente e especial.
+</p>
 
-### Tecnologia que transforma experiências de beleza.
+🌐 <a href="https://elarevela.com.br">elarevela.com.br</a>
 
-Uma plataforma criada para conectar **beleza, tecnologia e experiências** em um único lugar.
-
-<br>
-
-🌐 **elarevela.com.br**
-
-</div>
-
----
-
-## ✦ Tecnologia
-
-Construída com tecnologias modernas, focadas em **performance, escalabilidade e uma experiência fluida**.
-
-<div align="center">
-
-### Frontend
-
-`Next.js` · `React` · `TypeScript`
-
-### Backend
-
-`Go` · `REST API`
-
-### Mobile
-
-`Flutter`
-
-### Infraestrutura
-
-`Docker` · `Redis` · `MySQL` · `Cloudflare`
-
-</div>
-
----
-
-<div align="center">
-
-### Ela Revela
-
-**Beauty · Technology · Experience**
-
-<br>
-
-[elarevela.com.br](https://elarevela.com.br)
-
-</div>
+<p align="center">
+  <sub>BEAUTY · TECHNOLOGY · EXPERIENCE</sub>
+</p>
